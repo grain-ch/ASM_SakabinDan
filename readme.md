@@ -25,7 +25,7 @@ Delete the following files
 /bin/{the largest numbered folder}/res_mods/content/gameplay/common/projectile/artillery/textures/incandescenceMap.dds
 
 ***
-SinceÅ@2021/02/20 
+Since 2021/02/20 
 World of Warships Client Version:0.10.1.0
 
 # Change log
